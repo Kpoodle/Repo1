@@ -1,8 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<addons>
-
 <addon id="plugin.program.forumkodi"                                                                                                                                    
 	   name=" [COLOR tan][B]ForumKodi Wizard[/B][/COLOR]"                                                 
 	   version="1.0.1"                                                                                                                                        
@@ -17,8 +15,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">ForumKodi Wizard</summary>
-    <description lang="en">Credit To ForumKodi Group https://t.me/ForumKodi</description>
-    <description lang="en">Credit To StreamingInfo Group https://t.me/StreamingInfo</description>
+    <description lang="en">Credit To ForumKodi https://t.me/ForumKodi</description>
     <platform>all</platform>
   </extension>
 </addon>
