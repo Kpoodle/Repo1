@@ -1,8 +1,9 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <addons>
 
-<addon id="plugin.program.forumkodi"                                                                                                                                    
+<addon id="plugin.program.forumkodi.wizard"                                                                                                                                    
 	   name=" [COLOR tan][B]ForumKodi Wizard[/B][/COLOR]"                                                 
 	   version="1.0.1"                                                                                                                                        
 	   provider-name="">
