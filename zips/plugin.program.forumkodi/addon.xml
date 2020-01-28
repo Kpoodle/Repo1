@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.forumkodi"                                                                                                                                    
+	   name=" [COLOR tan][B]ForumKodi Wizard[/B][/COLOR]"                                                 
+	   version="1.0.1"                                                                                                                                        
+	   provider-name="">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">ForumKodi Wizard</summary>
+    <description lang="en">Credit To ForumKodi Group https://t.me/ForumKodi</description>
+    <description lang="en">Credit To StreamingInfo Group https://t.me/StreamingInfo</description>
+    <platform>all</platform>
+  </extension>
+</addon>
