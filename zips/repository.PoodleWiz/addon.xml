@@ -5,9 +5,9 @@
     </requires>
     <extension point="xbmc.addon.repository" name="PoodleWiz Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Kpoodle/repo/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Kpoodle/repo/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Kpoodle/repo/master/zips</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Kpoodle/Repo1/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Kpoodle/Repo1/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Kpoodle/Repo1/master/zips</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
