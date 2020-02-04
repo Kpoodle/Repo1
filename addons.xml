@@ -5,11 +5,10 @@
 
 <addon id="plugin.program.PoodleWizard"                                                                                                                                    
 	   name=" [COLOR tan][B]Kodi Poodle Wizard[/B][/COLOR]"                                                 
-	   version="1.0.1"                                                                                                                                        
+	   version="1.0.1a"                                                                                                                                        
 	   provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
