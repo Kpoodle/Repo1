@@ -2,7 +2,7 @@
 
 <addons>
 
-<addon id="plugin.program.PoodleWizard" name="[COLOR orangered]Kodi Poodle Wizard[/COLOR]" version="1.4.3.2" provider-name="Poodle">
+<addon id="plugin.program.PoodleWizard" name="[COLOR orangered]Kodi Poodle Wizard[/COLOR]" version="1.4.3.3" provider-name="Poodle">
     <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
