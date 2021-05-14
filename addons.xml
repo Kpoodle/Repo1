@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<addons>
+
 <addon id="plugin.program.Poodle19Wizard" name="[COLOR FFFF4500]Poodle 19 Wizard[/COLOR]" version="1.0.0.3a" provider-name="Poodle">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
